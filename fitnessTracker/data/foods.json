@@ -1,0 +1,158 @@
+{
+  "mien_bac": [
+    {
+      "ten_mon_an": "Phở gà",
+      "calo": 400,
+      "hinh_anh": "https://cdn.tgdd.vn/2021/09/CookProduct/1200(3)-1200x676-2.jpg"
+    },
+    {
+      "ten_mon_an": "Bún thang",
+      "calo": 450,
+      "hinh_anh": "https://cdn.tgdd.vn/2022/03/CookRecipe/Avatar/bun-thang-thumbnail.jpg"
+    },
+    {
+      "ten_mon_an": "Chả cá Lã Vọng",
+      "calo": 500,
+      "hinh_anh": "https://cdn.tgdd.vn/Files/2020/04/14/1248880/cach-lam-cha-ca-la-vong-chuan-bi-ha-noi-ngay-tai-nha-202206031641503679.jpg"
+    },
+    {
+      "ten_mon_an": "Bánh cuốn",
+      "calo": 300,
+      "hinh_anh": "https://cdn.tgdd.vn/Files/2020/05/21/1257167/cach-lam-banh-cuon-bang-chao-chong-dinh-chi-10-phut-co-ngay-bua-sang-202208151607177009.jpg"
+    },
+    {
+      "ten_mon_an": "Bún đậu mắm tôm",
+      "calo": 600,
+      "hinh_anh": "https://static.vinwonders.com/production/bun-dau-mam-tom-ha-noi-1.jpg"
+    },
+    {
+      "ten_mon_an": "Nem rán",
+      "calo": 150,
+      "hinh_anh": "https://cdn.tgdd.vn/Files/2020/02/11/1235793/chi-dung-chia-se-cach-lam-mon-nem-ran-dung-kieu-mien-bac-202203011207287143.jpg"
+    },
+    {
+      "ten_mon_an": "Bún ốc",
+      "calo": 350,
+      "hinh_anh": "https://cdn.tgdd.vn/Files/2019/11/14/1218637/cach-nau-bun-oc-don-gian-ma-ngon-bat-ngo-cho-bua-sang-202203031546184287.jpg"
+    },
+    {
+      "ten_mon_an": "Bánh tôm Hồ Tây",
+      "calo": 450,
+      "hinh_anh": "https://daylambanh.edu.vn/wp-content/uploads/2018/12/banh-tom-ho-tay-600x400.jpg"
+    },
+    {
+      "ten_mon_an": "Miến lươn",
+      "calo": 400,
+      "hinh_anh": "https://cdn-i.vtcnews.vn/resize/th/upload/2023/04/27/mien-luon-nghe-an-1-20245935.png"
+    },
+    {
+      "ten_mon_an": "Cháo lòng",
+      "calo": 300,
+      "hinh_anh": "https://checkinvietnam.vtc.vn/media/20211028/files/cong-thuc-nau-chao-long-ava.png"
+    }
+  ],
+  "mien_trung": [
+    {
+      "ten_mon_an": "Mì Quảng",
+      "calo": 400,
+      "hinh_anh": "https://hapinut.com/wp-content/uploads/2022/03/mi-quang-quang-nam.jpg"
+    },
+    {
+      "ten_mon_an": "Cao lầu",
+      "calo": 450,
+      "hinh_anh": "https://cdn.tgdd.vn/2021/12/CookRecipe/CookTipsNote/cao-lau-la-gi-nguon-goc-cao-lau-cao-lau-va-mi-quang-khac-nhau-tipsnote-800x523.jpg"
+    },
+    {
+      "ten_mon_an": "Bún mắm nêm",
+      "calo": 500,
+      "hinh_anh": "https://webnauan.vn/wp-content/uploads/2019/03/cach-lam-bun-mam-nem-Hue-ngon.jpg"
+    },
+    {
+      "ten_mon_an": "Cơm gà Hội An",
+      "calo": 600,
+      "hinh_anh": "https://cdn.tgdd.vn/Files/2019/03/29/1157476/cach-nau-com-ga-hoi-an-chinh-goc-chuan-vi-nhat-202208271507268751.jpg"
+    },
+    {
+      "ten_mon_an": "Bánh bèo",
+      "calo": 200,
+      "hinh_anh": "https://daylambanh.edu.vn/wp-content/uploads/2017/07/cach-lam-banh-beo-chay-1.jpg"
+    },
+    {
+      "ten_mon_an": "Bánh khoái",
+      "calo": 350,
+      "hinh_anh": "https://cdn.tgdd.vn/Files/2022/03/31/1423161/banh-khoai-la-banh-gi-cach-phan-biet-banh-khoai-va-banh-xeo-202203310719313430.jpg"
+    },
+    {
+      "ten_mon_an": "Bánh bột lọc",
+      "calo": 150,
+      "hinh_anh": "https://statics.vinpearl.com/banh-bot-loc-hue-anh-thumb_1628662396.png"
+    },
+    {
+      "ten_mon_an": "Chả bò",
+      "calo": 300,
+      "hinh_anh": "https://tiemchachica.com/wp-content/uploads/2023/03/cha-bo-binh-dinh.jpg"
+    },
+    {
+      "ten_mon_an": "Bún chả cá",
+      "calo": 400,
+      "hinh_anh": "https://www.cet.edu.vn/wp-content/uploads/2018/09/bun-cha-ca-nha-trang.jpg"
+    },
+    {
+      "ten_mon_an": "Cơm hến",
+      "calo": 350,
+      "hinh_anh": "https://daotaobeptruong.vn/wp-content/uploads/2021/02/com-hen-hua.jpg"
+    }
+  ],
+  "mien_nam": [
+    {
+      "ten_mon_an": "Hủ tiếu Nam Vang",
+      "calo": 450,
+      "hinh_anh": "https://www.huongnghiepaau.com/wp-content/uploads/2019/01/hu-tieu-nam-vang-1.jpg"
+    },
+    {
+      "ten_mon_an": "Bánh xèo",
+      "calo": 400,
+      "hinh_anh": "https://mekong-delta.com/_media/weblog/banh_xeo_3.jpg?w=400&tok=494154"
+    },
+    {
+      "ten_mon_an": "Bánh khọt",
+      "calo": 350,
+      "hinh_anh": "https://cdn.nhathuoclongchau.com.vn/unsafe/800x0/filters:quality(95)/https://cms-prod.s3-sgn09.fptcloud.com/cach_lam_banh_khot_02_2e8b598532.jpg"
+    },
+    {
+      "ten_mon_an": "Bún mắm",
+      "calo": 500,
+      "hinh_anh": "https://cdn.tgdd.vn/Files/2019/03/12/1154316/cach-nau-bun-mam-mien-tay-chuan-thom-ngon-don-gian-tai-nha-202112211640380018.jpg"
+    },
+    {
+      "ten_mon_an": "Lẩu mắm",
+      "calo": 600,
+      "hinh_anh": "https://www.cet.edu.vn/wp-content/uploads/2018/11/lau-mam-ca-linh.jpg"
+    },
+    {
+      "ten_mon_an": "Cơm tấm bì sườn chả",
+      "calo": 700,
+      "hinh_anh": "https://trivietphat.net/wp-content/uploads/2021/11/cach-lam-com-tam-suon-bi-cha.webp"
+    },
+    {
+      "ten_mon_an": "Gỏi cuốn",
+      "calo": 200,
+      "hinh_anh": "https://cdn.tgdd.vn/Files/2017/03/22/963738/cach-lam-goi-cuon-tom-thit-thom-ngon-cho-bua-com-gian-don-202203021427281747.jpg"
+    },
+    {
+      "ten_mon_an": "Cá kho tộ",
+      "calo": 450,
+      "hinh_anh": "https://www.huongnghiepaau.com/wp-content/uploads/2016/05/ca-loc-kho-to-tham-dam-gia-vi.jpg"
+    },
+    {
+      "ten_mon_an": "Bánh bao chiên",
+      "calo": 300,
+      "hinh_anh": "https://cdn.tgdd.vn/Files/2021/12/23/1406277/cach-lam-banh-bao-chien-nhan-thit-thom-ngon-don-gian-tai-nha-202112231159139266.jpg"
+    },
+    {
+      "ten_mon_an": "Bánh canh Trảng Bàng",
+      "calo": 400,
+      "hinh_anh": "https://cdn.tgdd.vn/2021/02/CookProduct/1200-1200x676-63.jpg"
+    }
+  ]
+}
